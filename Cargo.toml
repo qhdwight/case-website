@@ -1,0 +1,10 @@
+[package]
+name = "case_website"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "3"
+tera = "1"
+serde = "1"
+lazy_static = "1"
